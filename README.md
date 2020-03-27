@@ -11,8 +11,13 @@
             
  ### JavaScript Tutorials:
  
- #### 	■   Basics
- #### 	■   Functions
- #### 	■    Objects
- #### 	■    Array
+ ##### 	■   Basics
+ ##### 	■   Functions
+ #####	■    Objects
+ #####	■    Array
+ #####	■    JavaScript in Browser
+ #####	■    Data Storage, Libraries
+ #####	■    Other Functions & Errors
+ #####	■    Advance Object & Functions
+ 
 
